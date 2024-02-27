@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Vb Array\Vb Array\bin\Debug\Vb Array.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Vb Array\Vb Array\bin\Debug\Vb Array.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Vb Array\Vb Array\bin\Debug\Vb Array.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Vb Array\Vb Array\bin\Debug\Vb Array.xml
+c:\users\administrator\documents\visual studio 2015\Projects\Vb Array\Vb Array\obj\Debug\Vb Array.vbprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Vb Array\Vb Array\obj\Debug\Vb_Array.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Vb Array\Vb Array\obj\Debug\Vb_Array.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Vb Array\Vb Array\obj\Debug\Vb Array.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\Vb Array\Vb Array\obj\Debug\Vb Array.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Vb Array\Vb Array\obj\Debug\Vb Array.xml
+c:\users\administrator\documents\visual studio 2015\Projects\Vb Array\Vb Array\obj\Debug\Vb Array.pdb
