@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Functions\Functions\bin\Debug\Functions.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Functions\Functions\bin\Debug\Functions.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Functions\Functions\bin\Debug\Functions.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Functions\Functions\bin\Debug\Functions.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Functions\Functions\obj\Debug\Functions.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Functions\Functions\obj\Debug\Functions.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Functions\Functions\obj\Debug\Functions.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Functions\Functions\obj\Debug\Functions.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Functions\Functions\obj\Debug\Functions.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Functions\Functions\obj\Debug\Functions.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Functions\Functions\obj\Debug\Functions.vbprojResolveAssemblyReference.cache
